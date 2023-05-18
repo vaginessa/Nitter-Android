@@ -19,3 +19,5 @@ If you wish to disable JavaScript completely, find [this file](/app/src/main/jav
 ## Contributions
 **This area will be populated when contributions are made.** <br>
 If you would like to help out, see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+----
